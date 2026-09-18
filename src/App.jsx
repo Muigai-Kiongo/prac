@@ -1,4 +1,4 @@
-import shoppingList from './data/items.json';
+import {shoppingList} from './data/items.js';
 const App = () => {
    
   return (
